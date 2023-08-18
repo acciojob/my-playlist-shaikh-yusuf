@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+
+body{
+	background: rgb(204, 204, 204);
+}
+
+
+.songList{ 
+	border:1px solid black;
+	border-radius:5px;
+	background-color: rgb(255, 255, 255);
+}
+.songList li a{
+	text-decoration:none;
+	color:black;
+}
+
+.media{
+    margin:5%;
+	border:1px solid black;
+	border-radius:5px;
+	background-color: rgb(255, 255, 255);
+	height:600px;
+	
+}
+
+.media .plyer_one{
+	high:400px;
+	width:80%;
+	margin:0px 10px 10px 10px;
+	
+	
+}
