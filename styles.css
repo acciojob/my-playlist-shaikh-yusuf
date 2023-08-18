@@ -24,9 +24,9 @@ body{
 	
 }
 
-.media .plyer_one{
-	
+.media .plyer_one{	
+	padding:10px;
+	border:1px solid black;
+	border-radius:10px;
 	background-color: rgb(255, 255, 255);
-	
-	
 }
