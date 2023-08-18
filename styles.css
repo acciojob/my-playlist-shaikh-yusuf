@@ -27,7 +27,11 @@ body{
 .media .plyer_one{
 	high:400px;
 	width:80%;
+	border:1px solid  black;
+	border-radius:10px;
+	padding:10px;
 	margin:0px 10px 10px 10px;
+	background-color: rgb(255, 255, 255);
 	
 	
 }
